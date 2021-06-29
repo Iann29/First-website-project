@@ -1,0 +1,110 @@
+*{
+    font-family: "poppins", Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.logo6 img{
+    position: absolute; 
+    height: 100px;
+    margin-top: 10px;
+    top: -0px;
+    left: 50px;
+}
+body{
+    background-color: #c8e6c9;
+}
+header{
+    margin-top: 35px;
+    background-color: #a5d6a7;
+    padding: 15px 15px;
+}
+.clear{
+    clear: both;
+}
+.center{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+.right{
+    float:right;
+}
+.left{
+    float:left;
+}
+nav{
+    margin: 0;
+}
+nav a{
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.750);
+    text-decoration: none;
+    font-size: 22px;
+    padding: 0px 16px;
+    margin-top: -20px;
+}
+section.contato{
+    margin-top: 50px;
+}
+section.contato form{
+    background-color: #a5d6a7;
+    padding: 10px 10px;
+    margin: 0px 150px;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    text-align: center;
+}
+section.contato input[type=text]{
+    width: 50%;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    margin-top: 10px;
+    text-align: center;
+    outline: none;
+}
+section.contato input[type=email]{
+    width: 50%;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    margin-top: 10px;
+    text-align: center;
+    outline: none;
+}
+section.contato input[type=submit]{
+    width: 50%;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    margin-top: 10px;
+    text-align: center;
+    cursor: pointer;
+}
+section.contato textarea{
+    width: 50%;
+    padding: 10px;
+    border: 2px solid #ccc;
+    border-radius: 15px;
+    margin-top: 10px;
+    text-align: center;
+    resize: vertical;
+    height: 150px;
+    outline: none;
+}
+.netuno h2{
+    margin: 10px 10px;
+    
+}
+.netuno img{
+    height: 25px;
+    padding: 0 5px;
+}
+footer{
+    margin-top:64px;
+    font-size: 10px;
+    background-color: #d8fada;
+    padding: 25px 25px;
+    text-align: center;
+}

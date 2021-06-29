@@ -1,0 +1,125 @@
+*{
+    font-family: "poppins", Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.logo4 img{
+    position: absolute; 
+    height: 100px;
+    margin-top: 10px;
+    top: -0px;
+    left: 50px;
+}
+body{
+    background-color: #c8e6c9;
+}
+header{
+    margin-top: 35px;
+    background-color: #a5d6a7;
+    padding: 15px 15px;
+}
+.clear{
+    clear: both;
+}
+.center{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+.right{
+    float:right;
+}
+.left{
+    float:left;
+}
+nav{
+    margin: 0;
+}
+nav a{
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.750);
+    text-decoration: none;
+    font-size: 22px;
+    padding: 0px 16px;
+    margin-top: -20px;
+}
+.netuno h2{
+    margin: 10px 10px;
+    
+}
+.netuno img{
+    height: 25px;
+    padding: 0 5px;
+}
+footer{
+    position: inherit;
+    font-size: 10px;
+    background-color: #d8fada;
+    padding: 25px 25px;
+    text-align: center;
+}
+.saturno-single{
+    background-color: #a5d6a7;
+    padding: 25px 35px;
+    width: 500px;
+    margin-bottom: 35px;
+    border-radius: 35px;
+    box-shadow: 7px 7px 8px 1px rgba(0, 0, 0, 0.66);
+    min-height: 400px;
+}
+.saturno-single h2{
+    margin-bottom: 25px;
+}
+.saturno p{
+    text-align: left;
+}
+.precos-single{
+    float: left;
+    width:  400px;
+    min-height: 400px;
+    margin-left: 165px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    background-color: #a5d6a7;
+    height: 400px;
+    border-radius: 15px;
+    box-shadow: 0px 0px 27px 6px rgba(0,0,0,0.75);
+}
+.precos-single h2{
+    text-align: center;
+    padding: 10px 15px;
+    font-weight: 700;
+    margin-left: 10px;
+}
+.precos-single h3{
+    text-align: center;
+    padding: 10px 15px;
+    font-size: 25px;
+    font-weight: 700;
+    margin: 10px 10px;
+    border-bottom: 5px solid #c8e6c9;
+}
+.precos-single a{
+    color: black;
+    background-color: #c8e6c9;
+    width: 50%;
+    height: 50%;
+    margin-left: 150px;
+    padding: 10px 10px;
+    border: 0;
+    border-radius: 15px;
+    cursor: pointer;
+    text-decoration: none;
+}
+.precos-single img{
+    width: 200px;
+    padding-top: 20px;
+    margin-left: 115px;
+}
+
+  
+  
+  
+      
+  

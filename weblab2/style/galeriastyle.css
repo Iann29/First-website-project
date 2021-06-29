@@ -1,0 +1,86 @@
+*{
+    font-family: "poppins", Arial, Helvetica, sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.logo img{
+    position: absolute; 
+    height: 100px;
+    margin-top: 10px;
+    top: -0px;
+    left: 50px;
+}
+body{
+    background-color: #c8e6c9;
+}
+header{
+    margin-top: 35px;
+    background-color: #a5d6a7;
+    padding: 15px 15px;
+}
+.clear{
+    clear: both;
+}
+.center{
+    max-width: 1280px;
+    margin: 0 auto;
+    padding: 0 2%;
+}
+.right{
+    float:right;
+}
+.left{
+    float:left;
+}
+nav{
+    margin: 0;
+}
+nav a{
+    font-weight: 600;
+    color: rgba(0, 0, 0, 0.750);
+    text-decoration: none;
+    font-size: 22px;
+    padding: 0px 16px;
+    margin-top: -20px;
+}
+section.galeria{
+    margin-top: 25px;
+}
+.galeria-single img{
+    margin: 10px 25px;
+    min-height: 300px;
+    max-width: 490px;
+    border-radius: 10px;
+    border: 2px solid #a5d6a7;
+}
+.netuno h2{
+    margin: 10px 10px;
+    
+}
+.netuno img{
+    height: 25px;
+    padding: 0 5px;
+}
+footer{
+    position: inherit;
+    font-size: 10px;
+    background-color: #d8fada;
+    padding: 25px 25px;
+    text-align: center;
+}
+.saturno-single{
+    background-color: #a5d6a7;
+    padding: 25px 35px;
+    width: 500px;
+    margin-bottom: 35px;
+    border-radius: 35px;
+    box-shadow: 7px 7px 8px 1px rgba(0, 0, 0, 0.66);
+    min-height: 400px;
+}
+.saturno-single h2{
+    margin-bottom: 25px;
+}
+.saturno p{
+    text-align: left;
+}
